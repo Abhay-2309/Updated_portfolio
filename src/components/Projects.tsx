@@ -17,7 +17,7 @@ const Projects = () => {
       description:
         "A full-stack e-commerce solution with React, Node.js, and PostgreSQL. Features include user authentication, payment processing, and admin dashboard.",
       image:
-        "./public/Ecommerce-website.png",
+        "https://res.cloudinary.com/dy8vdilqu/image/upload/v1751390543/Ecommerce-website_nwkloh.png",
       tags: ["React", "Node.js", "PostgreSQL", "Stripe"],
       category: "web",
       liveUrl: "https://example.com",
@@ -29,7 +29,7 @@ const Projects = () => {
       title: "TrustLens",
       description: `Online trust is fragmented and platform-specific. A 5-star rating on one e-commerce site means nothing on another, and users are constantly forced to build their reputation from scratch. This creates friction for good users and opportunities for fraudsters who can easily create new accounts. TrustLens addresses this fundamental problem by creating a decentralized reputation protocol. It enables users to build a single, portable, and user-owned "Trust Passport" that securely records their positive online behavior (like genuine reviews or verified purchases) as tamper-proof credentials on a public blockchain. This allows any participating platform to instantly verify a new user's trustworthiness based on their entire cross-platform history, dramatically reducing fraud and creating frictionless experiences for legitimate users.`,
       image:
-        "./public/TrustLens.png",
+        "https://res.cloudinary.com/dy8vdilqu/image/upload/v1751390544/Trustlens_swlbgu.png",
       tags: ["MongoDB", "Express", "React", "Node.js", "Artificial Intelligence", "Machine Learning", "Deep Learning", "Blockchain", "Smart Contracts", "Web3"],
       category: "web",
       liveUrl: "http://trust-lens-seven.vercel.app/",
@@ -42,7 +42,7 @@ const Projects = () => {
       description:
         "The Agri-AI Smart Irrigation Simulator is a full-stack application designed to model and optimize agricultural watering schedules. Traditional irrigation systems often rely on fixed timers, leading to significant water waste and suboptimal crop health. This project tackles that problem by creating a virtual farm environment where an AI-driven engine analyzes simulated real-time data—such as weather forecasts, soil moisture, and crop type—to generate a highly efficient, dynamic watering plan. The simulator allows users to configure their farm, run what-if scenarios, and visualize the impact of an intelligent irrigation strategy versus a traditional one, demonstrating clear savings in water and potential increases in crop yield without any real-world risk.",
       image:
-        "./public/AI-driven-sprinkler-system.png",
+        "https://res.cloudinary.com/dy8vdilqu/image/upload/v1751390541/AI-driven-sprinkler-system_xrh1xf.png",
       tags: ["Random forest","Streamlit","Python"],
       category: "web",
       liveUrl: "https://agri-ai-sprinkler-system-simulator-hzbidxfdl7kffe4wxvq3jk.streamlit.app/",
@@ -55,7 +55,7 @@ const Projects = () => {
       description:
         "The Job Fit Analyzer is a modern, API-driven application designed to bridge the gap between job seekers and employers. In today's competitive job market, tailoring a resume for every application is critical but time-consuming. Recruiters, on the other hand, are inundated with applications and need a way to screen candidates efficiently without bias.",
       image:
-        "./public/job-fit-analyser.png",
+        "https://res.cloudinary.com/dy8vdilqu/image/upload/v1751390542/Job-fit-analyser_ar9kog.png",
       tags: ["Flask", "OpenAI API", "LLM", "NLP", "REST API", "Python", "Job Matching", "Resume Parsing", "AI", "Backend"],
       category: "Machine leaning",
       liveUrl: "https://example.com",
@@ -68,7 +68,7 @@ const Projects = () => {
       description:
         "A real-time chat application built in C++ using OOP and socket programming, implementing a client-server model over the TCP/IP protocol. The server handles multiple clients concurrently using multithreading, allowing full-duplex messaging. The project demonstrates strong understanding of networking fundamentals, including socket lifecycle, IP/port management, and system-level communication. Developed on Linux using POSIX sockets, the code is modular, scalable, and structured for future enhancements like authentication, encryption, or database integration. This project showcases expertise in system programming, concurrency, and clean software design.",
       image:
-        "./public/Chart based system.png",
+        "https://res.cloudinary.com/dy8vdilqu/image/upload/v1751390542/Chart_based_system_wudssr.jpg",
       tags: ["C++", "OOP", "Socket Programming", "TCP/IP", "Networking", "Multithreading", "Client-Server Model", "Chat Application", "Linux", "System Programming"],
       category: "OOP",
       liveUrl: "https://example.com",
@@ -81,7 +81,7 @@ const Projects = () => {
       description:
         "This project leverages Convolutional Neural Networks (CNNs) to classify OCT (Optical Coherence Tomography) images for early detection of retinal diseases. Built using Python, TensorFlow, and Keras, the model is trained to distinguish between healthy and diseased retinal scans with high accuracy. A user-friendly Streamlit interface allows real-time image upload and prediction, making the tool accessible to non-technical users. The project demonstrates skills in medical image processing, deep learning, and AI in healthcare, with potential for clinical deployment to assist ophthalmologists in diagnosis.",
       image:
-        "./public/OCT image classification.png",
+        "https://res.cloudinary.com/dy8vdilqu/image/upload/v1751390543/OCT_image_classification_bzmqno.jpg",
      tags: ["Python", "CNN", "Deep Learning", "OCT Classification", "Medical Imaging", "TensorFlow", "Keras", "Streamlit", "Image Processing", "AI in Healthcare"],
       category: "Machine learning",
       liveUrl: "https://example.com",

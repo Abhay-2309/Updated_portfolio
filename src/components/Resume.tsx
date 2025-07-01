@@ -117,7 +117,7 @@ const Resume = () => {
             A comprehensive overview of my experience, education, and skills in software development.
           </p>
           <a
-            href="./public/MyResume (2).pdf"
+            href="https://console.cloudinary.com/app/c-833b6d35fb2fba6fe5dc170a03807d/assets/media_library/search/asset/12f51adb4583d43f361feb05d529f56e/manage/summary?sortDirection=desc&sortField=uploaded_at&q=%7B%22uploadedTimeOption%22%3A%22today%22%2C%22createdTimeOption%22%3A%22today%22%2C%22createdByUsers%22%3A%5B%22416c7a909748d64a2eccd129b3be45%22%5D%7D&view_mode=mosaic&context=manage"
             download
             className="inline-flex items-center space-x-2 bg-gradient-to-r from-green-600 to-blue-600 hover:from-green-700 hover:to-blue-700 text-white px-8 py-4 rounded-full font-semibold transition-all duration-300 hover:scale-105 shadow-lg shadow-green-500/25"
           >

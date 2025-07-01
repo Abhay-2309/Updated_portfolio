@@ -9,6 +9,8 @@ import {
   Code,
   Palette,
 } from "lucide-react";
+// import myimage from "../src/Assets/Project.jpg";
+// import myresume from "./Assets/MyResume.pdf"
 
 const Hero = () => {
   const scrollToProjects = () => {
@@ -67,8 +69,9 @@ const Hero = () => {
                 />
               </button>
               <a
-                href="./public/MyResume (2).pdf"
+                href="https://console.cloudinary.com/app/c-833b6d35fb2fba6fe5dc170a03807d/assets/media_library/search/asset/12f51adb4583d43f361feb05d529f56e/manage/summary?sortDirection=desc&sortField=uploaded_at&q=%7B%22uploadedTimeOption%22%3A%22today%22%2C%22createdTimeOption%22%3A%22today%22%2C%22createdByUsers%22%3A%5B%22416c7a909748d64a2eccd129b3be45%22%5D%7D&view_mode=mosaic&context=manage"
                 download
+                target="_black"
                 className="group border-2 border-blue-500 text-blue-400 hover:bg-blue-500 hover:text-white px-8 py-4 rounded-full font-semibold transition-all duration-300 hover:scale-105 flex items-center space-x-2 backdrop-blur-sm"
               >
                 <Download size={20} className="group-hover:animate-bounce" />
@@ -102,7 +105,7 @@ const Hero = () => {
               <div className="w-80 h-80 lg:w-96 lg:h-96 rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 p-1 shadow-2xl shadow-blue-500/25">
                 {/* Updated Image Layout */}
                 <img
-                  src="/public/project.jpg"
+                  src="https://res.cloudinary.com/dy8vdilqu/image/upload/v1751390543/Project_fibceo.jpg"
                   alt="Profile"
                   className="w-full h-full rounded-full object-cover"
                 />
