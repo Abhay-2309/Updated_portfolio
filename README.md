@@ -36,7 +36,7 @@ I'm a third-year Computer Science student at **NIT Silchar** and a passionate fu
 
 > Live Demo: [Coming Soon](#)
 
-![Screenshot](./preview.png) <!-- Replace with an actual screenshot if available -->
+![Screenshot](./public/Portfolio.png) <!-- Replace with an actual screenshot if available -->
 
 ---
 
