@@ -55,13 +55,26 @@ const Projects = () => {
       description:
         "The Job Fit Analyzer is a modern, API-driven application designed to bridge the gap between job seekers and employers. In today's competitive job market, tailoring a resume for every application is critical but time-consuming. Recruiters, on the other hand, are inundated with applications and need a way to screen candidates efficiently without bias.",
       image:
-        "https://res.cloudinary.com/dy8vdilqu/image/upload/v1751390542/Job-fit-analyser_ar9kog.png",
+        "https://res.cloudinary.com/dy8vdilqu/image/upload/v1752332073/Screenshot_2025-07-12_202050_b6fixo.png",
       tags: ["Flask", "OpenAI API", "LLM", "NLP", "REST API", "Python", "Job Matching", "Resume Parsing", "AI", "Backend"],
       category: "Machine leaning",
       liveUrl: "https://example.com",
       githubUrl: "https://github.com/Abhay-2309/Job_fit_analyser",
       date: "2025",
       featured: false,
+    },
+    {
+      title: "HireEZ",
+      description:
+        "HireEZ is an AI-powered recruiting platform that streamlines the hiring process for both recruiters and candidates. By leveraging advanced algorithms and machine learning, HireEZ enhances candidate sourcing, engagement, and evaluation, making it easier for companies to find the right talent quickly and efficiently.",
+      image:
+        "https://res.cloudinary.com/dy8vdilqu/image/upload/v1752332072/Screenshot_2025-07-12_201733_sgcia1.png",
+      tags: ["Flask", "OpenAI API", "LLM", "NLP", "REST API", "Python", "Job Matching", "Resume Parsing", "AI", "Backend","React","Tailwind CSS", "Node.js", "Express","PostgreSQL"],
+      category: "WEB-APPLICATION with AI",
+      liveUrl: "https://example.com",
+      githubUrl: "https://github.com/Abhay-2309/HireEZ",
+      date: "2025",
+      featured: true,
     },
     {
       title: "Chat_based_system",
@@ -276,7 +289,7 @@ const Projects = () => {
 
         <div className="text-center mt-16">
           <a
-            href="https://github.com"
+            href="https://github.com/Abhay-2309"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center space-x-2 bg-gradient-to-r from-pink-600 to-red-600 hover:from-pink-700 hover:to-red-700 text-white px-8 py-4 rounded-full text-lg font-semibold transition-all duration-300 hover:scale-105 shadow-lg shadow-pink-500/25"
